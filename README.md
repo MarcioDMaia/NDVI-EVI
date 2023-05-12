@@ -41,5 +41,17 @@ respectivamente
 
 Estudo de casos:
 Coordenadas do primeiro roi:
-Primeiro roi considerado se localiza na região suldeste de Goiânia, com a cidade mais proxima localizada a noroeste do roi, chamada Santo Antônio do Rio verde, [com aproximadademente 3000 habitantes](https://pt.wikipedia.org/wiki/Santo_Antônio_do_Rio_Verde). Tal cidade é um importante produtor de grãos, sobretudo soja. Ao efetuarmos uma série temporal do NDVI e EVI calculados com a média dos pixels de cada imagem da coleção do landsat-8 no roi (entre os períodos de 01/05/2021 - 01/05/2022 [para o NDVI] e 01/05/2018 - 01/05/2022 (para o EVI)) obtemos o seguinte gráfico:
-<>
+Primeiro roi considerado se localiza na região suldeste de Goiânia, com a cidade mais proxima localizada a noroeste do roi, chamada Santo Antônio do Rio verde, [com aproximadademente 3000 habitantes](https://pt.wikipedia.org/wiki/Santo_Antônio_do_Rio_Verde). Tal cidade é um importante produtor de grãos, sobretudo soja. Ao efetuarmos uma série temporal do NDVI e EVI calculados com a média dos pixels de cada imagem da coleção do landsat-8 no roi (entre os períodos de 01/05/2021 - 01/05/2022 [para o NDVI] e 01/05/2018 - 01/05/2022 (para o EVI)) obtemos os seguintes gráficos:
+
+---
+<img src = "ee-chart (4).png">
+
+> Série temporal do NDVI e EVI no período de um ano
+
+---
+<img src = "ee-chart (3).png">
+
+> Série temporal do NDVI e EVI no período de quarto anos
+
+
+## Comparação do EVI e NDVI com gráficos de outra região (Pará) para o mesmo tipo de plantío.
