@@ -99,7 +99,7 @@ Primeiro roi considerado se localiza na região suldeste de Goiânia, com a cida
 * Verão - começo/fim: 22 de dezembro até 20 de março; Períodos médias de chuvas de média para cima - Possui boas médias de chuva em toda a estação
 
 <img src = "Chuva mensal média em em Goiás.png">
-[ref.:](https://pt.weatherspark.com/y/29864/Clima-característico-em-Goiás-Brasil-durante-o-ano)
+[fig(4) - ref.:](https://pt.weatherspark.com/y/29864/Clima-característico-em-Goiás-Brasil-durante-o-ano)
 
 ---
 
@@ -115,5 +115,8 @@ Primeiro roi considerado se localiza na região suldeste de Goiânia, com a cida
 4: [-43.52789597113878,-23.037408348219056]
 
 ### Area de preservação natural (Mata atlântica)
-> Roi localizado ao oeste da cidade do rio de janeiro, cidade tal com aproximadamente [6.7 milhões de habitantes](https://cidades.ibge.gov.br/brasil/rj/rio-de-janeiro/panorama) Ao efetuarmos o EVI e NDVI do roi em questão, gera um gráfico mais constante do que o primeiro roi analisado. Variações em ambos os parâmetros, principalmente pela variação de pluviosidade de chuva do local.
+> Roi localizado ao oeste da cidade do rio de janeiro, cidade tal com aproximadamente [6.7 milhões de habitantes](https://cidades.ibge.gov.br/brasil/rj/rio-de-janeiro/panorama). Ao efetuarmos serie temporal da média de EVI e NDVI do segundo roi, se torna notável que suas cristas e vales são muito menos constantes e exclusivamente dependentes da pluviosidade do local estudado. como mostrado no fig(7) e fig(5).
 
+<img src = "ee-chart (6).png">
+<img src = "ee-chart (5).png">
+<img src = "">
