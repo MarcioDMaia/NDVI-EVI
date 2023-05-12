@@ -46,12 +46,33 @@ Primeiro roi considerado se localiza na região suldeste de Goiânia, com a cida
 ---
 <img src = "ee-chart (4).png">
 
-> Série temporal do NDVI e EVI no período de um ano
+> Série temporal do NDVI e EVI no período de um ano img(1)
 
 ---
 <img src = "ee-chart (3).png">
 
-> Série temporal do NDVI e EVI no período de quarto anos
+> Série temporal do NDVI e EVI no período de quarto anos img(2)
 
 
-## Comparação do EVI e NDVI com gráficos de outra região (Pará) para o mesmo tipo de plantío.
+## Comparação do EVI e NDVI com gráfico de outra região (Pará-Assis) para o mesmo tipo de plantío.
+<img src = "Figura-2-Perfis-do-NDVI-de-areas-de-soja-no-municipio-de-Assis-Chateaubriand.png">
+
+[Gráfico multitemporal do município de Assis no Pará img(3) ref.:](https://www.researchgate.net/publication/228436582_Uso_de_perfis_multi-tempoais_de_NDVIAVHRR_no_acompanhamento_da_cultura_da_soja_no_oeste_do_Parana)
+
+## Similaridades nos seguintes aspectos dos gráficos 1,3:
+* Mínimo em outubro,
+* Máximos em novembro, abril/junho
+* 2 safras aparentes
+
+# mm de chuva do primeiro roi
+---
+Estações do ano e períodos de chuva Goiânia:
+* Outono - começo/fim: 20 de março - 20 de junho; Períodos médias de chuvas de média para cima - 20 de março até 15 de abril.
+* Inverno - começo/fim: 21 de junho até 23 de setembro; Períodos médias de chuvas de média para cima - Não possui.
+* Primavera - começo/fim: 23 de setembro até 22 de dezembro; Períodos médias de chuvas de média para cima - 1 de outubro até 22 de dezembro
+* Verão - começo/fim: 22 de dezembro até 20 de março; Períodos médias de chuvas de média para cima - Possui boas médias de chuva em toda a estação
+
+<img src = >
+
+[ref.:](https://pt.weatherspark.com/y/29864/Clima-característico-em-Goiás-Brasil-durante-o-ano)
+
