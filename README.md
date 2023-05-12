@@ -115,8 +115,15 @@ Primeiro roi considerado se localiza na região suldeste de Goiânia, com a cida
 4: [-43.52789597113878,-23.037408348219056]
 
 ### Area de preservação natural (Mata atlântica)
-> Roi localizado ao oeste da cidade do rio de janeiro, cidade tal com aproximadamente [6.7 milhões de habitantes](https://cidades.ibge.gov.br/brasil/rj/rio-de-janeiro/panorama). Ao efetuarmos serie temporal da média de EVI e NDVI do segundo roi, se torna notável que suas cristas e vales são muito menos constantes e exclusivamente dependentes da pluviosidade do local estudado. como mostrado no fig(7) e fig(5).
+> Roi localizado ao oeste da cidade do rio de janeiro, cidade tal com aproximadamente [6.7 milhões de habitantes](https://cidades.ibge.gov.br/brasil/rj/rio-de-janeiro/panorama). Ao efetuarmos serie temporal da média de EVI e NDVI do segundo roi, se torna notável que suas cristas e vales são muito menos constantes e exclusivamente dependentes da pluviosidade do local estudado. Mais aparente ao analisar as figuras 7 e 5.
 
 <img src = "ee-chart (6).png">
+> fig(5)
+
+---
+<img src = "Chuva mensal média em em Rio de Janeiro.png">
+> fig(7)
+
 <img src = "ee-chart (5).png">
-<img src = "">
+
+[CLIQUE AQUI PARA VER O FUNCIONAMENTO NO GOOGLE EARTH ENGINE](https://code.earthengine.google.com/0a038d23b088e5f3f52087c867938212)
